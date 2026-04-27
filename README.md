@@ -1,7 +1,7 @@
 # IT5437 - Assignment 2: Fitting and Alignment
 
 **Name:** Benjamine  
-**Index:** [Your Index Number]  
+**Index:** 258762A  
 **GitHub:** https://github.com/ITToday/IT5437-Assignment-2
 
 ## Notebooks
